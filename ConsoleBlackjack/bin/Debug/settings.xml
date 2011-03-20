@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<BlackjackSettings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DecksPerShoe>1</DecksPerShoe>
+  <MinCardsDealtBeforeReshuffle>33</MinCardsDealtBeforeReshuffle>
+  <MinimumBet>1</MinimumBet>
+  <MaximumBet>200</MaximumBet>
+  <DealerHardStandThreshold>17</DealerHardStandThreshold>
+  <DealerSoftStandThreshold>18</DealerSoftStandThreshold>
+  <BlackjackPayoff>2.5</BlackjackPayoff>
+  <InsuranceOffered>true</InsuranceOffered>
+  <InsuranceCost>0.5</InsuranceCost>
+  <InsurancePayoff>2</InsurancePayoff>
+  <ResplitAcesAllowed>true</ResplitAcesAllowed>
+  <SplitTensAllowed>true</SplitTensAllowed>
+  <HittingSplitAcesAllowed>true</HittingSplitAcesAllowed>
+  <DoubleDownOnlyTenOrEleven>false</DoubleDownOnlyTenOrEleven>
+  <SoftDoubleDownAllowed>true</SoftDoubleDownAllowed>
+  <DoubleDownSplitsAllowed>true</DoubleDownSplitsAllowed>
+  <SurrenderAllowed>false</SurrenderAllowed>
+  <SurrenderPayoff>0.5</SurrenderPayoff>
+</BlackjackSettings>

@@ -1,0 +1,5 @@
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack\bin\Release\Blackjack.dll
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack\bin\Release\Blackjack.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack\obj\Release\Blackjack.dll
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack\obj\Release\Blackjack.pdb

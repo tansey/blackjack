@@ -1,0 +1,4 @@
+# The NashCoding Blackjack Framework
+This framework is designed to facilitate statistics and AI research in the game of Blackjack. It should be able to simulate about 100,000 hands per second on a modern machine, and typically you need at least 100 million hands to get a stable expected value for a strategy. Although the game has been researched heavily, there are still a lot of questions to be answered particularly regarding the interaction of multiple strategies.
+
+More information about how to use the strategy can be found on [nashcoding](http://www.nashcoding.com/2010/10/03/a-csharp-blackjack-simulation-framework/).

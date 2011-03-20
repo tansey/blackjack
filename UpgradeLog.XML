@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Blackjack">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Blackjack.suo">
+</Property><Property Name="Date" Value="Saturday, May 08, 2010">
+</Property><Property Name="Time" Value="8:51 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Blackjack.sln" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Blackjack.suo" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack.suo">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Blackjack.csproj">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Players\BasicStrategyPlayer.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Players\BasicStrategyPlayer.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\BlackjackGame.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\BlackjackGame.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Card.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Card.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\DealerHand.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\DealerHand.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Hand.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Hand.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\HandInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\HandInfo.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\IBlackjackPlayer.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\IBlackjackPlayer.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\PlayerHand.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\PlayerHand.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\BlackjackSettings.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\BlackjackSettings.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Shoe.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\Blackjack\Shoe.cs">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\ConsoleBlackjack.csproj" Description="Project file successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\ConsoleBlackjack\ConsoleBlackjack.csproj">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\ConsoleBlackjackPlayer.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\ConsoleBlackjack\ConsoleBlackjackPlayer.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\Program.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\ConsoleBlackjack\Program.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\Backup\ConsoleBlackjack\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\ConsoleBlackjack.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="ConsoleBlackjack" Source="ConsoleBlackjack\ConsoleBlackjack.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Blackjack.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Blackjack.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Blackjack" Source="Blackjack\Blackjack.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="ConsoleBlackjack" Source="ConsoleBlackjack\ConsoleBlackjack.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

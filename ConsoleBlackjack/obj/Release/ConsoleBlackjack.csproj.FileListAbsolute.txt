@@ -1,0 +1,8 @@
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\bin\Release\ConsoleBlackjack.exe
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\bin\Release\ConsoleBlackjack.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\bin\Release\Blackjack.dll
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\bin\Release\Blackjack.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\obj\Release\ConsoleBlackjack.exe
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\obj\Release\ConsoleBlackjack.pdb
+C:\Documents and Settings\Wesley\My Documents\Visual Studio 2008\Projects\Blackjack\ConsoleBlackjack\bin\Release\ConsoleBlackjack.exe.config
